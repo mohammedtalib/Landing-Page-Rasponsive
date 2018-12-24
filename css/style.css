@@ -5,7 +5,7 @@ body{
 	background-image: url('../images/background.jpg');
 	color: #000305;
 	/* font-size: 87%; base font-size = 14px */
-	font-family: cursive;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;;
 	line-height: 2.5;
 	text-align: left;
 }
@@ -123,7 +123,7 @@ p{
 	font-size: 24px;
 	text-align: center;
 	color:deeppink;
-	font-family: cursive;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;;
 }
 strong{
 	color: blue;
